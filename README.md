@@ -1,6 +1,6 @@
-# Data Base Management Systems (18CSC303J)
+# Data Base Management Systems (18CSC209J)
 
-All the weekly lab work of the subject 18CSC303J Data Base Management Systems.
+All the weekly lab work of the subject 18CSC209J Data Base Management Systems.
 
 ## Topics Covered:
 1. DDL
